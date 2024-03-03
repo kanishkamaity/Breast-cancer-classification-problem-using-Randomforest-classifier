@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Aug 29 01:04:23 2018
 
-@author: 1022316
-"""
 
 #Classification of cancer dignosis
 #importing the libraries
